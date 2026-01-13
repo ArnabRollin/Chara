@@ -1,0 +1,7 @@
+{
+    "code-runner.executorMap": {
+        "c": "cd $dir/.. && make -s && bin/chara examples/main.chr && examples/main",
+    },
+    "code-runner.defaultLanguage": "c",
+    "editor.tabSize": 2,
+}

@@ -1,0 +1,9 @@
+:greet = do
+  outs "Hello";
+  out " world!";
+end 0
+
+:main = do
+  greet;
+  out (out "hi");
+end 0
