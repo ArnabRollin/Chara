@@ -1,5 +1,5 @@
-#include "../gen/parser.tab.h" // had to include .. bcs vscode sucks
 #include "ast.h"
+#include "parser.tab.h"
 
 #include <llvm-c/Analysis.h>
 #include <llvm-c/Core.h>

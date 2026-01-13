@@ -3,5 +3,8 @@
     "llvm-vs-code-extensions.vscode-clangd",
     "Dizy.lex-flex-yacc-bison",
     "ms-vscode.makefile-tools",
+  ],
+  "unwantedRecommendations": [
+    "anysphere.cpptools",
   ]
 }
